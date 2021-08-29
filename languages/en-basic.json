@@ -1,0 +1,22 @@
+{
+  "now": "Right now",
+  "seconds": "seconds",
+  "minutes": "minutes",
+  "hours": "hours",
+  "days": "days",
+  "weeks": "weeks",
+  "months": "months",
+  "years": "years",
+  "last_day": "Yesterday",
+  "last_week": "Last week",
+  "last_month": "Last month",
+  "last_year": "Last year",
+  "today": "Today",
+  "next_day": "Tomorrow",
+  "next_week": "Next week",
+  "next_month": "Next month",
+  "next_year": "Next year",
+  "ago_pattern": "{number} {name} ago",
+  "later_pattern": "{number} {name} later",
+  "timespan_pattern": "{number} {name}"
+}
